@@ -1,0 +1,23 @@
+#banner {
+background-color:rgb(178, 13, 255) ;
+padding: 5cm;
+}
+
+#banner h1{
+    color: aqua;
+    text-align: center;
+    font-size: 50px;
+}
+
+#partner{
+    background-color:rgb(255, 13, 13) ;
+    padding: 2cm;
+}
+
+#partner h1{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
